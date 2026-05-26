@@ -1,2 +1,0 @@
-# alza-dashboard
-Projektove statusy
