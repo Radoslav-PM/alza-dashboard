@@ -11,7 +11,7 @@
     "statusdate": "",
     "progress": 95,
     "summary": "Napriek opakovaným problémom s akceptačným LIVE SIM testom, bol dňa 14.5. úspešne ukončený LIVE SIM #4 s výsledkom OK (protokol v prílohe)\n\nDielo bolo prevzaté dňa 15.5.2026 s výhradami, ktoré sú popísané v akceptačnom protokole v prílohe. Záruka začína platiť od 19.5.2026\nOpen Points:\nDodanie dokumentácie v SK jazyku - transfer rizík, operačný manuál, manuál pre vyslobodzovacie práce hasičov\nSuperUser tréning - kvoli LIVE SIM-u bol presunutý na 18-19.5. Bude aj náhradný termín pre personál, ktorý sa nemůže zúčastnit.\nPremeranie GRID-u bude realizované 19.5. (opatovné po zemetrasení a po zářažových testoch pri LIVE SIM)\nSúbor náhradných dielov bude prebratý FAC 18-19.5.\nJedna nabíjačka na roboty, ktorá už bola opravovaná je v test. režime - 18.5. sa rozhodne o jej okamžitej výmene alebo ponechaní\n\nPokračuje stavba prídružných technológii k AS - dopravníkových tratí (Innotech) -\nOdtah z tunelu do 11.5. -  hotový\nPřítah prázdných beden do tunelu - 18.5.\nVytahováky\n2 stroje 15.6.\n3. stroj 30.6.\n4. stroj 15.7.\n\nInštalácia HW na porty AS (personálna výmena) \nChýbajúci HW:\nTlačiarne EPSON pre prímové porty - DONE\nTlačiarne Zebra pre expedičné porty - Puvodní termín 6.5. - nedodržaný. čakáme na update - DONE\nSkenery ručné pre expedičné porty v tuneli - 5.5. - termín nedodržaný, čakáme na update. - DONE\nDotykové monitory pre všetky porty. - DONE\nSwitche Cisco - Instalace bud. týden\nSkenery pokladničné - TBD\n\nPotvrdzovacie tlačítka na CAP a COP porty.\n30 ks double pushbox (prijmove porty)\n40 ks single pushbox (exp. porty)\nCena tlačítek neodpovedá. Nové zadanie pre MaWy PaRo a PaRu\nZáložné riešenie - potvrdzovanie cez Dotykovú obrazovku - Neg. dopad na produktivitu pracovísk.\n",
-    "milestones": "",
+    "milestones": "Handover|DONE",
     "risks": "",
     "open": "",
     "planned": "",
@@ -20,6 +20,6 @@
     "linkname": "https://app.asana.com/1/5555576762646/project/1211519665180537/list/1211520190856674",
     "img": "https://asanausercontent.com/us1/assets/5555576762646/1213620210108960/7e4d7679aa8c61c6bf05d98c33e766a9?e=1780496506&v=0&t=mfL2kw_-FIuCmgUnSHPYJVvcbLypUOFYYvYJNInlkzw",
     "upravilMeno": "",
-    "upravilCas": "2026-06-08T07:35:21.648Z"
+    "upravilCas": "2026-06-08T07:35:58.375Z"
   }
 ]
