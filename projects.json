@@ -10,7 +10,7 @@
     "dept": "LOG/PROC/PROCES/PROVOZ",
     "statusdate": "9.6.2026",
     "progress": 25,
-    "summary": "",
+    "summary": "Dňa 12.5. bolo schválené rozšírenie Robopick-u do SKLC3.\n\nDňa 13.5. prebehol workshop na SKLC3\nBoli definované vybrané porty na rozšírenie Robopick-u\nDefinovaný layout - premerané dimenzie, analýza rizika, diskusia s BOZP\n\n20.5. Bol oficiálny návrh dizajnu odoslaný od Sereact-u.\n25.5. - Design freeze\n\nVyžiadaná cenová ponuka na ELE na konfiguráciu rob.ramien (PeLa)\n22.5. bude dodaná\n\nPríprava zadania na stlačený vzduch vsp. s Innotech (PeČe)\n\nDátové zásuvky pripravené",
     "milestones": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).||planned\n31.8.2026 -> kvalita dokončenia picku robotom 99%.||planned\n31.8.2026 -> Availability 99%||planned\n31.8.2026 -> Výkon 100% (231 SJL/hod)||planned\nDesign Freeze|25.05.2026|done\nDeployment Ready|08.07.2026|planned\nHW/SW Handover|20.07.2026|planned\nRunning w/o API|08.08.2026|planned\n1st Live Orders|10.08.2026|planned\nSAT|31.08.2026|planned\nSW Support handover|01.09.2026|planned\nTestování RUR dokončeno|03.08.2026|planned\nVývoj dokončen||planned\nDátové siete dodané||planned\nPřívody dodány||planned",
     "risks": "",
     "open": "",
@@ -27,7 +27,7 @@
     "img6": "",
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
     "upravilMeno": "Radoslav Kračír",
-    "upravilCas": "2026-06-09T09:48:17.442Z"
+    "upravilCas": "2026-06-09T09:49:26.626Z"
   },
   {
     "id": "PROJ24060",
