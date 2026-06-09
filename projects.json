@@ -9,7 +9,7 @@
     "due": "01.10.2026",
     "dept": "LOGISTIKA/PROC/PROCES/PROVOZ",
     "statusdate": "21.05.2026",
-    "progress": 0,
+    "progress": 5,
     "summary": "- Přijato rozhodnutí nečekat na finální dořešení 5G infrastruktury\n- Pokračujeme s dodavateli, kteří umožňují připojení přes Wi‑Fi a zároveň možnost dodatečné integrace 5G modulu.\n- Řešíme s dodavateli ukázku mapování, vytváření tras a správu FMS (Ekobal + ServisControl DONE, Agilox 10.6.)\n- Do 2. kola tendru pokračujeme: Agilox (napřímo/Amtech/4IGV), SEER (Ekobal) a Melcus (ServisControl)\n\n\n",
     "milestones": "Rozhodnutí o prvním usecasu|15.02.2026|done\nTendr |19.06.2026|planned\nSchválení projektu|20.06.2026|planned\nPodpis smlouvy |30.06.2026|planned\nInstalace |31.08.2026|planned\nTestování robota|30.09.2026|planned\nPředání do provozu |01.10.2026|planned\nRozhodnutí o dalších usecasech |30.09.2026|planned",
     "risks": "",
@@ -27,7 +27,7 @@
     "img6": "",
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1212748797504235/list/1212748884163601",
     "upravilMeno": "Lucie Brejchová",
-    "upravilCas": "2026-06-09T11:55:17.502Z"
+    "upravilCas": "2026-06-09T11:55:32.323Z"
   },
   {
     "id": "PROJ23407",
