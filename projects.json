@@ -11,7 +11,7 @@
     "statusdate": "",
     "progress": 0,
     "summary": "",
-    "milestones": "Rozhodnutí o prvním usecasu|15.02.2026|done\nTendr |19.06.2026|planned\nSchválení projektu|30.06.2026|planned\nPodpis smlouvy |15.07.2026|planned\nInstalace |18.09.2026|planned\nTestování robota|30.09.2026|planned\nPředání do provozu |01.10.2026|planned\nRozhodnutí o dalších usecasech |31.12.2026|planned",
+    "milestones": "Rozhodnutí o prvním usecasu|15.02.2026|done\nTendr |19.06.2026|planned\nSchválení projektu|20.06.2026|planned\nPodpis smlouvy |30.06.2026|planned\nInstalace |31.08.2026|planned\nTestování robota|30.09.2026|planned\nPředání do provozu |01.10.2026|planned\nRozhodnutí o dalších usecasech |30.09.2026|planned",
     "risks": "",
     "open": "",
     "planned": "",
@@ -78,7 +78,7 @@
     "hw": "",
     "link": "https://app.asana.com/1/5555576762646/project/1209233249180806/list/1209233249180823?auto_reloaded=true",
     "linkname": "Asana - 4D Shuttle",
-    "img": "",
+    "img": "https://asanausercontent.com/us1/assets/5555576762646/1215548161717802/d8907f195ad4d4464d9fe203bff7e507?e=1781007006&v=0&t=VQwNbQNcYkYKlov_vKqSN7kFx_0wg8aCIzDoDKTn9_U",
     "img1": "",
     "img2": "",
     "img3": "",
@@ -86,8 +86,8 @@
     "img5": "",
     "img6": "",
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1209233249180806/list/1209233249180823?auto_reloaded=true",
-    "upravilMeno": "Radoslav Kračír",
-    "upravilCas": "2026-06-09T09:43:46.045Z"
+    "upravilMeno": "",
+    "upravilCas": "2026-06-09T11:40:33.935Z"
   },
   {
     "id": "PROJ23400",
