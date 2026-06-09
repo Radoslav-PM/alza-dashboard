@@ -3,7 +3,7 @@
     "id": "PROJ24060",
     "name": "4D Shuttle",
     "supplier": "Kvados",
-    "owner": "Matúš Prokeš",
+    "owner": "MatÃºÅ¡ ProkeÅ¡",
     "status": "on-track",
     "phase": "Stavba",
     "due": "15.10.2026",
@@ -11,11 +11,11 @@
     "statusdate": "4.6.2026",
     "progress": 50,
     "summary": "",
-    "milestones": "DokonÄenie mezzaninu|DONE\nAplikÃ¡cia na pick/prÃ­jem|DONE\nTestovanie predprÃ­jmu K1|15.6.2026|",
+    "milestones": "DokonÃÂenie mezzaninu|DONE\nAplikÃÂ¡cia na pick/prÃÂ­jem|DONE\nTestovanie predprÃÂ­jmu K1|15.6.2026|",
     "risks": "",
     "open": "",
-    "planned": "Dorobenie 15% analÃ½z\nTestovanie robotov - 29.5.2026\nMontÃ¡Å¾ 4DS  vrÃ¡tane vÃ½Å¥ahov - regÃ¡le  stred 2. polovica - 12.6",
-    "hw": "Tray-e\nPlastovÃ© palety\nPodesta\nDÃ¡tove siete na pracovnÃ½ch staniciach\n\nHW - Å¡pecifikÃ¡ciu mÃ¡me - zabezpeÄenie objednÃ¡vky",
+    "planned": "Dorobenie 15% analÃÂ½z\nTestovanie robotov - 29.5.2026\nMontÃÂ¡ÃÂ¾ 4DS  vrÃÂ¡tane vÃÂ½ÃÂ¥ahov - regÃÂ¡le  stred 2. polovica - 12.6",
+    "hw": "Tray-e\nPlastovÃÂ© palety\nPodesta\nDÃÂ¡tove siete na pracovnÃÂ½ch staniciach\n\nHW - ÃÂ¡pecifikÃÂ¡ciu mÃÂ¡me - zabezpeÃÂenie objednÃÂ¡vky",
     "link": "https://app.asana.com/1/5555576762646/project/1209233249180806/list/1209233249180823?auto_reloaded=true",
     "linkname": "Asana - 4D Shuttle",
     "img": "",
@@ -32,23 +32,29 @@
     "id": "PROJ23400",
     "name": "AutoStore",
     "supplier": "Element Logic",
-    "owner": "Radoslav KrajÃÂÃÂÃÂÃÂ­r",
+    "owner": "Radoslav KrajÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­r",
     "status": "on-track",
     "phase": "RampUP",
     "due": "7.6.2026",
     "dept": "LOG",
     "statusdate": "",
-    "progress": 95,
-    "summary": "Napriek opakovanÃÂ½m problÃÂ©mom s akceptaÃÂnÃÂ½m LIVE SIM testom, bol dÃÂa 14.5. ÃÂºspeÃÂ¡ne ukonÃÂenÃÂ½ LIVE SIM #4 s vÃÂ½sledkom OK (protokol v prÃÂ­lohe)\n\nDielo bolo prevzatÃÂ© dÃÂa 15.5.2026 s vÃÂ½hradami, ktorÃÂ© sÃÂº popÃÂ­sanÃÂ© v akceptaÃÂnom protokole v prÃÂ­lohe. ZÃÂ¡ruka zaÃÂÃÂ­na platiÃÂ¥ od 19.5.2026\nOpen Points:\nDodanie dokumentÃÂ¡cie v SK jazyku - transfer rizÃÂ­k, operaÃÂnÃÂ½ manuÃÂ¡l, manuÃÂ¡l pre vyslobodzovacie prÃÂ¡ce hasiÃÂov\nSuperUser trÃÂ©ning - kvoli LIVE SIM-u bol presunutÃÂ½ na 18-19.5. Bude aj nÃÂ¡hradnÃÂ½ termÃÂ­n pre personÃÂ¡l, ktorÃÂ½ sa nemÃÂ¯ÃÂ¾e zÃÂºÃÂastnit.\nPremeranie GRID-u bude realizovanÃÂ© 19.5. (opatovnÃÂ© po zemetrasenÃÂ­ a po zÃÂ¡ÃÂaÃÂ¾ovÃÂ½ch testoch pri LIVE SIM)\nSÃÂºbor nÃÂ¡hradnÃÂ½ch dielov bude prebratÃÂ½ FAC 18-19.5.\nJedna nabÃÂ­jaÃÂka na roboty, ktorÃÂ¡ uÃÂ¾ bola opravovanÃÂ¡ je v test. reÃÂ¾ime - 18.5. sa rozhodne o jej okamÃÂ¾itej vÃÂ½mene alebo ponechanÃÂ­\n\nPokraÃÂuje stavba prÃÂ­druÃÂ¾nÃÂ½ch technolÃÂ³gii k AS - dopravnÃÂ­kovÃÂ½ch tratÃÂ­ (Innotech) -\nOdtah z tunelu do 11.5. -  hotovÃÂ½\nPÃÂÃÂ­tah prÃÂ¡zdnÃÂ½ch beden do tunelu - 18.5.\nVytahovÃÂ¡ky\n2 stroje 15.6.\n3. stroj 30.6.\n4. stroj 15.7.\n\nInÃÂ¡talÃÂ¡cia HW na porty AS (personÃÂ¡lna vÃÂ½mena) \nChÃÂ½bajÃÂºci HW:\nTlaÃÂiarne EPSON pre prÃÂ­movÃÂ© porty - DONE\nTlaÃÂiarne Zebra pre expediÃÂnÃÂ© porty - PuvodnÃÂ­ termÃÂ­n 6.5. - nedodrÃÂ¾anÃÂ½. ÃÂakÃÂ¡me na update - DONE\nSkenery ruÃÂnÃÂ© pre expediÃÂnÃÂ© porty v tuneli - 5.5. - termÃÂ­n nedodrÃÂ¾anÃÂ½, ÃÂakÃÂ¡me na update. - DONE\nDotykovÃÂ© monitory pre vÃÂ¡etky porty. - DONE\nSwitche Cisco - Instalace bud. tÃÂ½den\nSkenery pokladniÃÂnÃÂ© - TBD\n\nPotvrdzovacie tlaÃÂÃÂ­tka na CAP a COP porty.\n30 ks double pushbox (prijmove porty)\n40 ks single pushbox (exp. porty)\nCena tlaÃÂÃÂ­tek neodpovedÃÂ¡. NovÃÂ© zadanie pre MaWy PaRo a PaRu\nZÃÂ¡loÃÂ¾nÃÂ© rieÃÂ¡enie - potvrdzovanie cez DotykovÃÂº obrazovku - Neg. dopad na produktivitu pracovÃÂ­sk.\n",
-    "milestones": "Handover|15.5.",
+    "progress": 99,
+    "summary": "\n",
+    "milestones": "Handover|15.5.|DONE\nSpustenie provozu|20.5|DONE\n\n",
     "risks": "",
-    "open": "",
-    "planned": "",
-    "hw": "",
+    "open": "Testovanie a dodanie potvrzovacich tlacitok\nDodanie funkčných vytahovákov",
+    "planned": "Dodanie časti pokladničných skenerov|13.6.\nDodanie prvej časti potvrzovacich tlacitok po teste v CZLC4|30.6.\nVytahováky (2)|15.6.\n",
+    "hw": "Pokladničné skenery|DELAYED\nPotvrdzovacie tlacitko|DELAYED",
     "link": "https://app.asana.com/1/5555576762646/project/1211519665180537/list/1211520190856674",
     "linkname": "Asana - AutoStore",
     "img": "https://asanausercontent.com/us1/assets/5555576762646/1213620210108960/7e4d7679aa8c61c6bf05d98c33e766a9?e=1780496506&v=0&t=mfL2kw_-FIuCmgUnSHPYJVvcbLypUOFYYvYJNInlkzw",
-    "upravilMeno": "",
-    "upravilCas": "2026-06-08T07:37:42.146Z"
+    "img1": "",
+    "img2": "",
+    "img3": "https://imgs.search.brave.com/GF3o_RP82XvXpHk1G1Hq0Q1EC7Gnvl-bxgcxz-hoEnA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZXJ2/aWNlcy5jb2xhbWNv/LmNvbS9yZXNvdXJj/ZXMvdjEvaW1hZ2Vz/L2h0dHBzOnx8Y29u/dGVudC5ldGlsaXpl/LmNvbXxUb3B8MTA3/ODE5OTM5Mi5qcGc_/bm9pbWFnZT1sb2dv/L2F1dG8vNzU_Y2R2/PTEzNzA",
+    "img4": "",
+    "img5": "",
+    "img6": "",
+    "upravilMeno": "Radoslav Kračír",
+    "upravilCas": "2026-06-09T09:20:03.492Z"
   }
 ]
