@@ -67,7 +67,7 @@
     "status": "on-track",
     "phase": "RampUP",
     "due": "7.6.2026",
-    "dept": "LOG",
+    "dept": "LOG/PROVOZ",
     "statusdate": "9.6.2026",
     "progress": 99,
     "summary": "\n",
@@ -87,6 +87,6 @@
     "img6": "",
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1211519665180537/list/1211520190856674",
     "upravilMeno": "Radoslav Kračír",
-    "upravilCas": "2026-06-09T09:39:08.250Z"
+    "upravilCas": "2026-06-09T10:21:55.299Z"
   }
 ]
