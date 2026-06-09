@@ -11,11 +11,11 @@
     "statusdate": "4.6.2026",
     "progress": 50,
     "summary": "",
-    "milestones": "Dokončenie mezzaninu|DONE\nAplikácia na pick/príjem|DONE\nTestovanie predpríjmu K1|15.6.2026|",
+    "milestones": "DokonÄenie mezzaninu|DONE\nAplikÃ¡cia na pick/prÃ­jem|DONE\nTestovanie predprÃ­jmu K1|15.6.2026|",
     "risks": "",
     "open": "",
-    "planned": "Dorobenie 15% analýz\nTestovanie robotov - 29.5.2026\nMontáž 4DS  vrátane výťahov - regále  stred 2. polovica - 12.6",
-    "hw": "Tray-e\nPlastové palety\nPodesta\nDátove siete na pracovných staniciach\n\nHW - špecifikáciu máme - zabezpečenie objednávky",
+    "planned": "Dorobenie 15% analÃ½z\nTestovanie robotov - 29.5.2026\nMontÃ¡Å¾ 4DS  vrÃ¡tane vÃ½Å¥ahov - regÃ¡le  stred 2. polovica - 12.6",
+    "hw": "Tray-e\nPlastovÃ© palety\nPodesta\nDÃ¡tove siete na pracovnÃ½ch staniciach\n\nHW - Å¡pecifikÃ¡ciu mÃ¡me - zabezpeÄenie objednÃ¡vky",
     "link": "",
     "linkname": "Asana - 4D Shuttle",
     "img": "",
@@ -26,20 +26,20 @@
     "img5": "https://asanausercontent.com/us1/assets/5555576762646/1215479670065273/4370c06f5faa436d2a18b9efbdae2d5b?e=1780994147&v=0&t=uWDZZgVn1lh1HdxVfP_5HXLBG1o6fGPxO33hnM_QyqA",
     "img6": "",
     "upravilMeno": "",
-    "upravilCas": "2026-06-09T08:06:00.091Z"
+    "upravilCas": "2026-06-09T08:08:01.462Z"
   },
   {
     "id": "PROJ23400",
     "name": "AutoStore",
     "supplier": "Element Logic",
-    "owner": "Radoslav KrajÃÂÃÂ­r",
+    "owner": "Radoslav KrajÃÂÃÂÃÂÃÂ­r",
     "status": "on-track",
     "phase": "RampUP",
     "due": "7.6.2026",
     "dept": "LOG",
     "statusdate": "",
     "progress": 95,
-    "summary": "Napriek opakovanÃ½m problÃ©mom s akceptaÄnÃ½m LIVE SIM testom, bol dÅa 14.5. ÃºspeÅ¡ne ukonÄenÃ½ LIVE SIM #4 s vÃ½sledkom OK (protokol v prÃ­lohe)\n\nDielo bolo prevzatÃ© dÅa 15.5.2026 s vÃ½hradami, ktorÃ© sÃº popÃ­sanÃ© v akceptaÄnom protokole v prÃ­lohe. ZÃ¡ruka zaÄÃ­na platiÅ¥ od 19.5.2026\nOpen Points:\nDodanie dokumentÃ¡cie v SK jazyku - transfer rizÃ­k, operaÄnÃ½ manuÃ¡l, manuÃ¡l pre vyslobodzovacie prÃ¡ce hasiÄov\nSuperUser trÃ©ning - kvoli LIVE SIM-u bol presunutÃ½ na 18-19.5. Bude aj nÃ¡hradnÃ½ termÃ­n pre personÃ¡l, ktorÃ½ sa nemÅ¯Å¾e zÃºÄastnit.\nPremeranie GRID-u bude realizovanÃ© 19.5. (opatovnÃ© po zemetrasenÃ­ a po zÃ¡ÅaÅ¾ovÃ½ch testoch pri LIVE SIM)\nSÃºbor nÃ¡hradnÃ½ch dielov bude prebratÃ½ FAC 18-19.5.\nJedna nabÃ­jaÄka na roboty, ktorÃ¡ uÅ¾ bola opravovanÃ¡ je v test. reÅ¾ime - 18.5. sa rozhodne o jej okamÅ¾itej vÃ½mene alebo ponechanÃ­\n\nPokraÄuje stavba prÃ­druÅ¾nÃ½ch technolÃ³gii k AS - dopravnÃ­kovÃ½ch tratÃ­ (Innotech) -\nOdtah z tunelu do 11.5. -  hotovÃ½\nPÅÃ­tah prÃ¡zdnÃ½ch beden do tunelu - 18.5.\nVytahovÃ¡ky\n2 stroje 15.6.\n3. stroj 30.6.\n4. stroj 15.7.\n\nInÅ¡talÃ¡cia HW na porty AS (personÃ¡lna vÃ½mena) \nChÃ½bajÃºci HW:\nTlaÄiarne EPSON pre prÃ­movÃ© porty - DONE\nTlaÄiarne Zebra pre expediÄnÃ© porty - PuvodnÃ­ termÃ­n 6.5. - nedodrÅ¾anÃ½. ÄakÃ¡me na update - DONE\nSkenery ruÄnÃ© pre expediÄnÃ© porty v tuneli - 5.5. - termÃ­n nedodrÅ¾anÃ½, ÄakÃ¡me na update. - DONE\nDotykovÃ© monitory pre vÅ¡etky porty. - DONE\nSwitche Cisco - Instalace bud. tÃ½den\nSkenery pokladniÄnÃ© - TBD\n\nPotvrdzovacie tlaÄÃ­tka na CAP a COP porty.\n30 ks double pushbox (prijmove porty)\n40 ks single pushbox (exp. porty)\nCena tlaÄÃ­tek neodpovedÃ¡. NovÃ© zadanie pre MaWy PaRo a PaRu\nZÃ¡loÅ¾nÃ© rieÅ¡enie - potvrdzovanie cez DotykovÃº obrazovku - Neg. dopad na produktivitu pracovÃ­sk.\n",
+    "summary": "Napriek opakovanÃÂ½m problÃÂ©mom s akceptaÃÂnÃÂ½m LIVE SIM testom, bol dÃÂa 14.5. ÃÂºspeÃÂ¡ne ukonÃÂenÃÂ½ LIVE SIM #4 s vÃÂ½sledkom OK (protokol v prÃÂ­lohe)\n\nDielo bolo prevzatÃÂ© dÃÂa 15.5.2026 s vÃÂ½hradami, ktorÃÂ© sÃÂº popÃÂ­sanÃÂ© v akceptaÃÂnom protokole v prÃÂ­lohe. ZÃÂ¡ruka zaÃÂÃÂ­na platiÃÂ¥ od 19.5.2026\nOpen Points:\nDodanie dokumentÃÂ¡cie v SK jazyku - transfer rizÃÂ­k, operaÃÂnÃÂ½ manuÃÂ¡l, manuÃÂ¡l pre vyslobodzovacie prÃÂ¡ce hasiÃÂov\nSuperUser trÃÂ©ning - kvoli LIVE SIM-u bol presunutÃÂ½ na 18-19.5. Bude aj nÃÂ¡hradnÃÂ½ termÃÂ­n pre personÃÂ¡l, ktorÃÂ½ sa nemÃÂ¯ÃÂ¾e zÃÂºÃÂastnit.\nPremeranie GRID-u bude realizovanÃÂ© 19.5. (opatovnÃÂ© po zemetrasenÃÂ­ a po zÃÂ¡ÃÂaÃÂ¾ovÃÂ½ch testoch pri LIVE SIM)\nSÃÂºbor nÃÂ¡hradnÃÂ½ch dielov bude prebratÃÂ½ FAC 18-19.5.\nJedna nabÃÂ­jaÃÂka na roboty, ktorÃÂ¡ uÃÂ¾ bola opravovanÃÂ¡ je v test. reÃÂ¾ime - 18.5. sa rozhodne o jej okamÃÂ¾itej vÃÂ½mene alebo ponechanÃÂ­\n\nPokraÃÂuje stavba prÃÂ­druÃÂ¾nÃÂ½ch technolÃÂ³gii k AS - dopravnÃÂ­kovÃÂ½ch tratÃÂ­ (Innotech) -\nOdtah z tunelu do 11.5. -  hotovÃÂ½\nPÃÂÃÂ­tah prÃÂ¡zdnÃÂ½ch beden do tunelu - 18.5.\nVytahovÃÂ¡ky\n2 stroje 15.6.\n3. stroj 30.6.\n4. stroj 15.7.\n\nInÃÂ¡talÃÂ¡cia HW na porty AS (personÃÂ¡lna vÃÂ½mena) \nChÃÂ½bajÃÂºci HW:\nTlaÃÂiarne EPSON pre prÃÂ­movÃÂ© porty - DONE\nTlaÃÂiarne Zebra pre expediÃÂnÃÂ© porty - PuvodnÃÂ­ termÃÂ­n 6.5. - nedodrÃÂ¾anÃÂ½. ÃÂakÃÂ¡me na update - DONE\nSkenery ruÃÂnÃÂ© pre expediÃÂnÃÂ© porty v tuneli - 5.5. - termÃÂ­n nedodrÃÂ¾anÃÂ½, ÃÂakÃÂ¡me na update. - DONE\nDotykovÃÂ© monitory pre vÃÂ¡etky porty. - DONE\nSwitche Cisco - Instalace bud. tÃÂ½den\nSkenery pokladniÃÂnÃÂ© - TBD\n\nPotvrdzovacie tlaÃÂÃÂ­tka na CAP a COP porty.\n30 ks double pushbox (prijmove porty)\n40 ks single pushbox (exp. porty)\nCena tlaÃÂÃÂ­tek neodpovedÃÂ¡. NovÃÂ© zadanie pre MaWy PaRo a PaRu\nZÃÂ¡loÃÂ¾nÃÂ© rieÃÂ¡enie - potvrdzovanie cez DotykovÃÂº obrazovku - Neg. dopad na produktivitu pracovÃÂ­sk.\n",
     "milestones": "Handover|15.5.",
     "risks": "",
     "open": "",
