@@ -40,7 +40,7 @@
     "statusdate": "9.6.2026",
     "progress": 99,
     "summary": "\n",
-    "milestones": "Handover|15.5.|DONE\nSpustenie provozu|20.5|DONE\n\n",
+    "milestones": "Project establishment||done\nGRID complete|15.02.2026|done\nFacility assembly|15.03.2026|done\nBIN insertion|26.04.2026|done\nInterface ready for testing||done\nExternal instalations Ready|11.05.2026|planned\nTest and training|10.05.2026|done\nReady for production|17.05.2026|done\nProject closing|05.06.2026|planned\nSpec verification||done",
     "risks": "",
     "open": "Testovanie a dodanie potvrzovacich tlacitok\nDodanie funkčných vytahovákov",
     "planned": "Dodanie časti pokladničných skenerov|13.6.\nDodanie prvej časti potvrzovacich tlacitok po teste v CZLC4|30.6.\nVytahováky (2)|15.6.\n",
