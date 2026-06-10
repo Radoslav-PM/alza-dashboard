@@ -48,9 +48,9 @@
     "tenders": "ELE Pripojenie - Inovel | PENDING\nVzduch - Atlac Copco | OPEN ",
     "link": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
     "linkname": "Asana - SKLC3 - Robopick",
-    "charter": "",
-    "tenderUrl": "",
-    "budgetUrl": "",
+    "charter": "https://alzacz.sharepoint.com/:x:/r/sites/Stavebnprojekty/_layouts/15/Doc.aspx?sourcedoc=%7B661C8DFD-7B37-4641-AFB9-D685FAF23328%7D&file=PCh_2026_SKLC3_Robopick.xlsx&action=default&mobileredirect=true",
+    "tenderUrl": "https://alzacz.sharepoint.com/:f:/s/Stavebnprojekty/IgDgC6JCQeM7SI7p4VtlElWMAXx4RnC_k6NTykJbwvs3zR8?e=9Dh6fQ",
+    "budgetUrl": "https://alzacz.sharepoint.com/:x:/r/sites/LOGISTIKA-Projektovtm/_layouts/15/Doc.aspx?sourcedoc=%7B249123A0-E96A-4E49-966C-45E263027D2E%7D&file=Cashflow%20SKLC3%20_new.xlsx&wdLOR=cD5389B3F-41B0-4E39-ADF4-9877C8787C53&fromShare=true&action=default&mobileredirect=true",
     "img": "",
     "img1": "",
     "img2": "",
@@ -61,7 +61,7 @@
     "progress": 25,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-06-10T12:37:16.221Z",
+    "upravilCas": "2026-06-10T12:39:05.446Z",
     "comments": [],
     "history": [
       {
