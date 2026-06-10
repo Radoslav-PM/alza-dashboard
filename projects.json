@@ -111,7 +111,7 @@
     "name": "AutoStore",
     "supplier": "Element Logic",
     "owner": "Radoslav Krajcir",
-    "ownerEmail": "",
+    "ownerEmail": "radoslav.krajcir@alza.sk",
     "phase": "Odovzdané do provozu",
     "due": "7.6.2026",
     "dept": "LOG/PROVOZ",
@@ -129,6 +129,7 @@
     "tenderUrl": "https://alzacz.sharepoint.com/:f:/s/Stavebnprojekty/IgBLaqGE9gQZT56jbDnM0leRAUOQCzFvIF4BDseO_CRRpyg?e=kkrog6",
     "budgetUrl": "https://alzacz.sharepoint.com/:x:/r/sites/LOGISTIKA-Projektovtm/_layouts/15/Doc.aspx?sourcedoc=%7B249123A0-E96A-4E49-966C-45E263027D2E%7D&file=Cashflow%20SKLC3%20_new.xlsx&wdLOR=cD5389B3F-41B0-4E39-ADF4-9877C8787C53&fromShare=true&action=default&mobileredirect=true",
     "img": "",
+    "img1": "",
     "img2": "",
     "img3": "",
     "img4": "",
@@ -140,7 +141,7 @@
     "progress": 99,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-06-09T23:36:45.606Z",
+    "upravilCas": "2026-06-10T00:05:11.470Z",
     "comments": [],
     "history": [
       {
