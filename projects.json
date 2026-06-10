@@ -45,7 +45,7 @@
     "open": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).\n31.8.2026 -> kvalita dokončenia picku robotom 99%.\n31.8.2026 -> Availability 99%\n31.8.2026 -> Výkon 100% (231 SJL/hod)\nDeployment Ready | 08.07.2026\nHW/SW Handover | 20.07.2026\nRunning w/o API | 08.08.2026\n1st Live Orders | 10.08.2026",
     "planned": "Schválenie CP ELE|16.6.\nCP Stlačený vzduch|16.6.",
     "hw": "",
-    "tenders": "ELE Pripojenie - Inovel | PENDING | 15.6.2026\nVzduch - Atlac Copco | OPEN | 15.6.2026",
+    "tenders": "ELE Pripojenie - Inovel | PENDING\nVzduch - Atlac Copco | OPEN ",
     "link": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
     "linkname": "Asana - SKLC3 - Robopick",
     "charter": "",
@@ -61,7 +61,7 @@
     "progress": 25,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-06-10T12:36:55.848Z",
+    "upravilCas": "2026-06-10T12:37:16.221Z",
     "comments": [],
     "history": [
       {
