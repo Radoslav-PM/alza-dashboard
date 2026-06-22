@@ -95,8 +95,8 @@
     "phase": "Design Freeze",
     "due": "31.8.2026",
     "dept": "LOG/PROC/PROCES/PROVOZ",
-    "statusdate": "10. 6. 2026",
-    "summary": "• Summary\n• Design freeze\n• Schvaleny layout od BOZP, OPS, Proces\n• Schválený layout od Element Logic (dodavatel AS) - udrzba a pristup k portom pri servise\n• 9.6. prebehlo stretnutie na site, s dodavatelom stlaceneho vzduchu (AtlasCopco).\n• špecifikácia riešenia, termíny prejdené.\n• čakáme dodanie CP do 15.6.\n• Sereact dodá info k ukončovaciemu ventilu\n• https://app.asana.com/app/asana/-/get_asset?asset_id=1215601659479788\n• ELE - Cenová ponuka https://alzacz.sharepoint.com/:f:/s/Stavebnprojekty/IgAErkJbSKrJQ4le_ssZDdkDAekURVJRfZJUiKokajZRxlY?e=RrQcFv (Inovel), nutná konzultácia s PROC\n• Interný kick-off k projektu naplánovaný na 11.6.\n• Next steps\n• Prvé dodávky materiálu\n• Fencing k portom - 8.7.2026 - čakáme na potvrdenie\n• Vyhodnotenie ELE + vzduch\n• Špecifikácie sereact siete\n----------------------------------------",
+    "statusdate": "22. 6. 2026",
+    "summary": "• Summary\n• Projekt vo fáze Design Freeze\n• Cenová ponuka na ELE - Schválená a objednaná 17.6. - Realizácia KW 26/27.\n• Cenová ponuka na rozšírenie stlačeného vzduchu - Schválená a objednaná 18.6. - Realizácia KW 26/27\n• Interný Kick-off 11.6. - Projektový tím, harmonogram a úlohy sú jasné\n• Nastavenie pravidelných interných schůzek\n• Next steps\n• Realizácia ELE a Rozšírenia rozvodov stlačeného vzduchu eo. 06/2026\n• Prvé dodávky materiálu od dodávateľa (Fencing) - Očakávané dodanie 6.7.2026\n• Analýza kamer nad vybranými portami (BaK, OPS)",
     "milestones": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143475\n31.8.2026 -> kvalita dokončenia picku robotom 99%.||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143479\n31.8.2026 -> Availability 99%||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143485\n31.8.2026 -> Výkon 100% (231 SJL/hod)||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143487\nDesign Freeze|25.05.2026|done|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549619\nDeployment Ready|08.07.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549621\nHW/SW Handover|20.07.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549623\nRunning w/o API|08.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549625\n1st Live Orders|10.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549629\nSAT|31.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549631\nSW Support handover|01.09.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549633\nTestování RUR dokončeno|03.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813504853252\nVývoj dokončen||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813504853239\nDátové siete dodané||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215282847437037\nPřívody dodány|03.07.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813449829502",
     "risks": "",
     "open": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).\n31.8.2026 -> kvalita dokončenia picku robotom 99%.\n31.8.2026 -> Availability 99%\n31.8.2026 -> Výkon 100% (231 SJL/hod)\nDeployment Ready | 08.07.2026\nHW/SW Handover | 20.07.2026\nRunning w/o API | 08.08.2026\n1st Live Orders | 10.08.2026",
@@ -129,6 +129,12 @@
       },
       {
         "date": "10. 6. 2026",
+        "status": "on-track",
+        "progress": 25,
+        "author": "Radoslav Krajčír"
+      },
+      {
+        "date": "22. 6. 2026",
         "status": "on-track",
         "progress": 25,
         "author": "Radoslav Krajčír"
