@@ -32,11 +32,17 @@
     "prevStatus": "at-risk",
     "teamsNotif": "auto",
     "upravilMeno": "Martina Medlenová",
-    "upravilCas": "2026-06-15T08:05:16.605Z",
+    "upravilCas": "2026-06-22T15:31:59.512Z",
     "comments": [],
     "history": [
       {
         "date": "15. 6. 2026",
+        "status": "at-risk",
+        "progress": 30,
+        "author": "Martina Medlenová"
+      },
+      {
+        "date": "22. 6. 2026",
         "status": "at-risk",
         "progress": 30,
         "author": "Martina Medlenová"
