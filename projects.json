@@ -58,8 +58,8 @@
     "phase": "Tendr",
     "due": "01.10.2026",
     "dept": "LOG/PROC/PROCES",
-    "statusdate": "21. 5. 2026",
-    "summary": "• Summary\n• Projekt AMR robotizace pokračuje s cílem neblokovat další postup kvůli nejistotě ohledně 5G infrastruktury. Bylo přijato rozhodnutí pokračovat v tendru s důrazem na flexibilitu konektivity (Wi‑Fi i 5G), což umožní paralelní řešení infra tématu bez zastavení projektu.\n• 1. Průzkum trhu\n• Oslovení nových dodavatelé a zjišťování dalších možností\n• Jungheinrich\n• AMR robot EAC212a (novinka na trhu).\n• Nemá možnost připojení na 5G síť - do tendru neuvažujeme\n• Filics\n• Potenciální schopnost pohybu v patrech mezaninu, robot je lehký (~85 kg)\n• ověřujeme možnosti využití na mezaninu (např. převoz VB),\n• probíhá zjištění technických a provozních podmínek, včetně připojení k 5G síti\n• 2. Tender\n• Bylo přijato rozhodnutí nečekat na finální dořešení 5G infrastruktury.\n• Pokračujeme s dodavateli, kteří umožňují připojení přes Wi‑Fi a zároveň možnost dodatečné integrace 5G modulu.\n• Všem dodavatelům byly rozeslány dotazy k 5G infrastruktuře (podklady od Cetinu).\n• Aktuálně čekáme na odpovědi, které rozhodnou o:\n• výběru dodavatelů pro další kolo,\n• dalším zpřesnění technického řešení.\n• Do 2. kola tendru předpokládáme:\n• 4IGV (Agilox)\n• Amtech (Agilox)\n• Kvados (MyFaber F4)\n• Ekobal (SEER – modely SFL-CDD-CE14 a SOS-100)\n• ServisControl (Melkus HLG130)\n• V dalším kole bude kladen důraz na:\n• optimalizaci ceny,\n• garantovaný termín dodání a implementace\n• Porovnání TCO na 5 let u všech oslovených dodavatelů: https://alzacz.sharepoint.com/:x:/r/sites/Stavebnprojekty/_layouts/15/Doc.aspx?sourcedoc=%7B85978A38-9227-4F2E-AE66-8C48AD3DE5D2%7D&file=Porovn%C3%A1n%C3%AD%20nab%C3%ADdek.xlsx&action=default&mobileredirect=true\n• Pro dodání a otestování robotů do 1.9.2026 se potřebujeme rozhodnout do poloviny června s ohledem na předpokládanou dobu dodání 8-10 týdnů od objednání.\n----------------------------------------\n• Next steps\n• Vyhodnotit odpovědi dodavatelů na požadavky ohledně 5G infrastruktury.\n• Finalizovat seznam dodavatelů pro 2. kolo tendru.\n• Urychleně dokončit tendr a schválit finální řešení\n• Pokračovat v ověřování využitelnosti nových technologií (Filics – mezanin).",
+    "statusdate": "24. 6. 2026",
+    "summary": "• Summary\n• Projekt sa aktuálne nachádza vo fáze prípravy a pilotného overovania, s cieľom nasadenia dvoch autonómnych mobilných robotov (AMR) – Agilox a Seer do prevádzky.\n• Stav projektu\n• Prenájom robotov: Prebieha zabezpečenie prenájmu 2 robotov (Agilox + Seer)\n• Plánované míľniky:\n• 20.7. – inicializácia projektu (dodanie / spustenie prvých testov)\n• 27.7. – rozšírené testovanie a stabilizácia prevádzky\n• Aktuálne aktivity (prípravná fáza)\n• Príprava testovacích scenárov\n• definovanie hlavných use-case (transport, obsluha trás, integrácia do operácie)\n• nastavenie KPI (výkon, spoľahlivosť, čas cyklu, vyťaženosť)\n• simulácia reálnych prevádzkových podmienok\n• Príprava zóny pre nabíjací priestor\n• definovanie umiestnenia nabíjacích staníc\n• zabezpečenie energetických a priestorových požiadaviek\n• nastavenie bezpečného pohybu robotov v okolí zóny\n• BOZP konzultácie\n• posúdenie bezpečnostných rizík pri interakcii robot – operátor\n• definovanie bezpečnostných pravidiel a opatrení\n• súlad s internými a legislatívnymi požiadavkami\n• IT infraštruktúra – WiFi\n• overenie pokrytia a stability WiFi siete v prevádzke\n• prípadné posilnenie signálu v kritických zónach\n• zabezpečenie konektivity pre riadenie robotov\n• zabezpečenie VPN pre vzdialený prístup pre dodávateľov\n• NDA s dodávateľmi\n• finalizácia dohôd o mlčanlivosti s partnermi (Agilox, Seer)\n• ochrana dát a know-how počas testovania a implementácie\n• Cenová bilancia a vyhodnotenie dĺžky prenájmu\n• analýza nákladov na prenájom vs. prínosy (efektivita, úspora práce)\n• stanovenie optimálnej dĺžky pilotného obdobia\n• podklad pre rozhodnutie o ďalšej investícii (nákup vs. predĺženie prenájmu)\n• 7. V spolupráci s finančným controllingom pripraviť detailnú nákladovú analýzu a    TCO (Total Cost of Ownership) projektu\n----------------------------------------\n• Next steps\n• Cieľ testu:\n• Overiť funkčnosť AMR robotov v reálnej prevádzke\n• Kvantifikovať prínosy (produktivity, nákladov, kvality procesov)\n• Vytvoriť podklady pre rozhodnutie o dlhodobom nasadení\n----------------------------------------",
     "milestones": "Rozhodnutí o prvním usecasu|15.02.2026|done|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227019\nTendr |19.06.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692295\nSchválení projektu|30.06.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692293\nPodpis smlouvy |15.07.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692297\nInstalace |18.09.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692299\nTestování robota|30.09.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692301\nPředání do provozu |01.10.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227023\nRozhodnutí o dalších usecasech |31.12.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227021",
     "risks": "!Urychleně dokončit tendr a výběr dodavatele",
     "open": "AGV/AMR - Základní informace o projektu  (Lucie Brejchová)\nPorovnávací tabulka dodavatelů (Lucie Brejchová)\nProject charter (Lucie Brejchová)\nRozfázování projektu  (Lucie Brejchová)\nRozpočet projektu  (Lucie Brejchová)\nSmlouva s dodavatelem \n1:1 LB x MM - zápisy z meetingů (Lucie Brejchová)\nTendr  | 19.06.2026",
@@ -77,7 +77,7 @@
     "img3": "",
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1212748797504235/list/1212748884163601",
     "startdate": "",
-    "status": "on-track",
+    "status": "at-risk",
     "progress": 5,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
@@ -89,6 +89,12 @@
         "status": "at-risk",
         "progress": 5,
         "author": "Radoslav Krajčír"
+      },
+      {
+        "date": "24. 6. 2026",
+        "status": "at-risk",
+        "progress": 5,
+        "author": "Lucie Brejchová"
       }
     ]
   },
