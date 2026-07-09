@@ -118,7 +118,7 @@
     "milestones": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143475\n31.8.2026 -> kvalita dokončenia picku robotom 99%.||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143479\n31.8.2026 -> Availability 99%||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143485\n31.8.2026 -> Výkon 100% (231 SJL/hod)||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215283209143487\nDesign Freeze|25.05.2026|done|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549619\nDeployment Ready|08.07.2026|done|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549621\nHW/SW Handover|20.07.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549623\nRunning w/o API|08.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549625\n1st Live Orders|10.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549629\nSAT|31.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549631\nSW Support handover|01.09.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1214975119549633\nTestování RUR dokončeno|03.08.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813504853252\nVývoj dokončen||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813504853239\nDátové siete dodané||planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1215282847437037\nPřívody dodány|10.07.2026|planned|https://app.asana.com/1/5555576762646/project/1213813439994130/task/1213813449829502",
     "risks": "",
     "open": "10.8.2026 -> výkon jedného robota 280 ks/hod (220 SJL/hod).\n31.8.2026 -> kvalita dokončenia picku robotom 99%.\n31.8.2026 -> Availability 99%\n31.8.2026 -> Výkon 100% (231 SJL/hod)\nHW/SW Handover | 20.07.2026\nRunning w/o API | 08.08.2026\n1st Live Orders | 10.08.2026\nSAT | 31.08.2026",
-    "planned": "Schválenie CP ELE|16.6.\nCP Stlačený vzduch|16.6.",
+    "planned": "Montáž ramien|13.7.\nRozšírenie prívodov na stlačený vzduch|10.7.",
     "hw": "",
     "tenders": "ELE Pripojenie - Inovel | AWARDED\nVzduch - Kre-Tech | AWARDED ",
     "link": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
@@ -136,7 +136,7 @@
     "progress": 25,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-07-07T07:14:00.981Z",
+    "upravilCas": "2026-07-09T08:36:29.159Z",
     "comments": [],
     "history": [
       {
