@@ -63,7 +63,7 @@
     "milestones": "Rozhodnutí o prvním usecasu|15.02.2026|done|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227019\nTendr |30.09.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692295\nSchválení projektu|15.09.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692293\nPodpis smlouvy |15.10.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692297\nInstalace |30.11.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692299\nTestování |31.08.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212742867692301\nPředání do provozu |01.12.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227023\nRozhodnutí o dalších usecasech |31.12.2026|planned|https://app.asana.com/1/5555576762646/project/1212748797504235/task/1212896467227021",
     "risks": "",
     "open": "AGV/AMR - Základní informace o projektu  (Lucie Brejchová)\nPorovnávací tabulka dodavatelů (Lucie Brejchová)\nProject charter (Lucie Brejchová)\nRozfázování projektu  (Lucie Brejchová)\nRozpočet projektu  (Lucie Brejchová)\nSmlouva s dodavatelem \n1:1 LB x MM - zápisy z meetingů (Lucie Brejchová)\nTendr  | 30.09.2026",
-    "planned": "Testování robotů v provozu | 10.8.2026",
+    "planned": "Testování robotů v provozu | 31.8.2026",
     "hw": "AGILOX ONE / AGILOX OFL\nSEER SFL-CDD14-CE \t\n",
     "tenders": "",
     "link": "https://app.asana.com/1/5555576762646/project/1212748797504235/list/1212748884163601",
@@ -81,7 +81,7 @@
     "progress": 10,
     "teamsNotif": "auto",
     "upravilMeno": "Lucie Brejchová",
-    "upravilCas": "2026-07-16T09:50:33.474Z",
+    "upravilCas": "2026-07-16T09:52:10.526Z",
     "comments": [],
     "history": [
       {
