@@ -134,7 +134,7 @@
     "supplier": "Sereact.ai",
     "owner": "Radoslav Krajčír",
     "ownerEmail": "",
-    "phase": "Design Freeze",
+    "phase": "Comissioning",
     "due": "31.8.2026",
     "dept": "LOG/PROC/PROCES/PROVOZ",
     "statusdate": "31. 7. 2026",
@@ -157,10 +157,10 @@
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
     "startdate": "12.5.2026",
     "status": "on-track",
-    "progress": 25,
+    "progress": 50,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-07-09T08:36:29.159Z",
+    "upravilCas": "2026-07-31T07:38:27.843Z",
     "comments": [],
     "history": [
       {
