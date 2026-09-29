@@ -202,7 +202,7 @@
     "owner": "Radoslav Krajčír",
     "ownerEmail": "",
     "phase": "Comissioning",
-    "due": "31.8.2026",
+    "due": "31.10.2026",
     "dept": "LOG/PROC/PROCES/PROVOZ",
     "statusdate": "3. 9. 2026",
     "summary": "• Summary\n• Handover pracovných staníc (SAT) realizovaný dňa 3.9.:\n• Všetky parametre z akceptácie okrem Performance testu boli úspešne overené — od dnešného dňa môžeme oficiálne používať Robopick ramená v produkcii bez prítomnosti Sereact personálu na mieste.\n• Performance test (záťažový test na Availability, Pick výkon a Kvalitu) nebol súčasťou dnešnej akceptácie, ako bolo vopred komunikované a dohodnuté. Bude realizovaný najneskôr do 14 dní, spolu so začiatkom Billing period.\n• Support počas tejto periódy zostáva vzdialený; pri potrebe zásahu na mieste dodávateľ bezodkladne vyšle technikov. HyperCare (7 dní) sa spustí až po Performance teste.\n• Vyškolených máme 14 SuperUserov (Sign-Off Sheets z 27.8. a 2.9. podpísané a k dispozícii).\n----------------------------------------\n• Next steps\n• Doladiť interné priraďovanie objednávok na Robopick stanice tak, aby mal Performance test zmysel\n• Naplánovať a vykonať Performance test (najneskôr do 14 dní)\n• Preložiť dokumentáciu k dielu z ENG do SK jazyka\n• Zabezpečiť interné školenie Proces – Provoz (zodpovední: P. Kadlec, M. Zaujec)\n----------------------------------------",
@@ -224,10 +224,10 @@
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1213813439994130/list/1213813449748354",
     "startdate": "12.5.2026",
     "status": "on-track",
-    "progress": 80,
+    "progress": 95,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-08-20T12:38:15.284Z",
+    "upravilCas": "2026-09-29T10:16:44.925Z",
     "comments": [],
     "history": [
       {
@@ -324,6 +324,12 @@
         "date": "28. 9. 2026",
         "status": "on-track",
         "progress": 80,
+        "author": "Radoslav Krajčír"
+      },
+      {
+        "date": "29. 9. 2026",
+        "status": "on-track",
+        "progress": 95,
         "author": "Radoslav Krajčír"
       }
     ]
