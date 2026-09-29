@@ -1,5 +1,48 @@
 [
   {
+    "id": "PROJ26922",
+    "name": "Rozšírenie AS v SKLC3",
+    "supplier": "Element Logic",
+    "owner": "",
+    "ownerEmail": "radoslav.krajcir@alza.sk",
+    "phase": "Design freeze",
+    "due": "30.4.2027",
+    "dept": "LOG/PROC/PROCES/PM",
+    "statusdate": "29.9.2026",
+    "summary": "",
+    "milestones": "",
+    "risks": "",
+    "open": "",
+    "planned": "",
+    "hw": "",
+    "tenders": "",
+    "link": "https://app.asana.com/1/5555576762646/project/1218590073426541/list/1218582134355166",
+    "linkname": "Asana - Rozsirenie AS SKLC3",
+    "charter": "",
+    "tenderUrl": "",
+    "budgetUrl": "",
+    "img": "",
+    "img1": "",
+    "img2": "",
+    "img3": "",
+    "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1218590073426541/list/1218582134355166",
+    "startdate": "16.9.2026",
+    "status": "on-track",
+    "progress": 5,
+    "teamsNotif": "auto",
+    "upravilMeno": "Radoslav Krajčír",
+    "upravilCas": "2026-09-29T08:42:51.216Z",
+    "comments": [],
+    "history": [
+      {
+        "date": "29. 9. 2026",
+        "status": "on-track",
+        "progress": 5,
+        "author": "Radoslav Krajčír"
+      }
+    ]
+  },
+  {
     "id": "PROJ26329",
     "name": "Systémové pokrytí třídících dep",
     "supplier": "",
