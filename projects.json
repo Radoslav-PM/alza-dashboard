@@ -8,11 +8,11 @@
     "phase": "Design freeze",
     "due": "30.4.2027",
     "dept": "LOG/PROC/PROCES/PM",
-    "statusdate": "9. 10. 2026",
-    "summary": "• Summary\n• Element Logic potvrdila prijatie zoznamu 20 z 32 portov (frémov), ktoré sme interne odsúhlasili pre osadenie Conveyor portami, a na základe neho finalizuje grid design.\n• Element Logic zároveň obdržal potvrdený termín odoslania portov z AutoStore – 5. 11. 2026. Na základe tohto termínu pripravia časový plán inštalácie/commissioningu.\n----------------------------------------\n• Next steps\n• Budúci týždeň sa uskutoční krátky kick-off meeting k projektu, kde prejdeme ďalšie kroky a harmonogram realizácie. Medzitým si obe strany preveria pripravenosť el./dátovej kabeláže.\n----------------------------------------",
-    "milestones": "Objednávky podpísané|17.09.2026|done|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218590073426544\nPodpis dodatkov ku Contract for Work||planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218590073426546\nZrealizovaná Inštalácia 20 Conveyor portov - tunel|04.12.2026|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475095\nZrealizovaná inštalácia 6 Conveyor portov - overhang|30.04.2027|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475097\nRozhodnutie o 12 COP (tunel)||planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475079",
+    "statusdate": "16. 10. 2026",
+    "summary": "• Summary\n• Projekt pokračuje podľa harmonogramu.\n• 16.10. bol projektový kick off, kde sme si prešli momentálny stav framov, potrebné prace a upravy\n• Stanovený harmonogram inštalácie\n• Počas inštalácie nepredpokladáme nutnosť prerušenia prevádzky AutoStore, čo je v sezóne kľúčové\n• Nutná úprava ELE vo framoch - ELE kraibčka → zásuvka (20x)\n----------------------------------------\n• Next steps\n• Material on site - 9.11.\n• Instalacia 9-15.11.\n• Úprava ELE do 31.10.\n• Potvrdenie dodatku č.2 - rozšírenie 6 COP (Q1/Q2 2027) Legal + Business\n----------------------------------------",
+    "milestones": "Objednávky podpísané|17.09.2026|done|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218590073426544\nPodpis dodatkov ku Contract for Work|23.10.2026|done|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218590073426546\nZrealizovaná Inštalácia 20 Conveyor portov - tunel|04.12.2026|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475095\nZrealizovaná inštalácia 6 Conveyor portov - overhang|30.04.2027|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475097\nRozhodnutie o 12 COP (tunel)||planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1218583154475079\nSTAVBA 20 COP - tunel|20.11.2026|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1219573973299407\nHandover 20 COP|11.12.2026|planned|https://app.asana.com/1/5555576762646/project/1218590073426541/task/1219573973299410",
     "risks": "",
-    "open": "Podpis dodatkov ku Contract for Work (Radoslav Krajcir)\nZrealizovaná Inštalácia 20 Conveyor portov - tunel (Radoslav Krajcir) | 04.12.2026\nZrealizovaná inštalácia 6 Conveyor portov - overhang (Radoslav Krajcir) | 30.04.2027\nRozhodnutie o 12 COP (tunel)\nStavebná príprava (Radoslav Krajcir) | 23.10.2026\nUzavrenie SLA dodatku \nDodatok č. 2 CON38003 (Radoslav Krajcir)\nPotvrdenie obdržania objednávky + dátum odoslania materiálu",
+    "open": "Zrealizovaná Inštalácia 20 Conveyor portov - tunel (Radoslav Krajcir) | 04.12.2026\nZrealizovaná inštalácia 6 Conveyor portov - overhang (Radoslav Krajcir) | 30.04.2027\nRozhodnutie o 12 COP (tunel)\nSTAVBA 20 COP - tunel (Radoslav Krajcir) | 20.11.2026\nHandover 20 COP (Radoslav Krajcir) | 11.12.2026\nUzavrenie SLA dodatku \nVymena SFP modulov - CISCO (Radoslav Krajcir) | 11.11.2026\nZahájenie inštalácie 20 COP (tunel) (Radoslav Krajcir) | 10.11.2026",
     "planned": "MAIN|\nPM - Radoslav Krajčír|\nInštalácia - Element Logic|",
     "hw": "",
     "tenders": "",
@@ -42,6 +42,12 @@
       },
       {
         "date": "13. 10. 2026",
+        "status": "on-track",
+        "progress": 5,
+        "author": "Radoslav Krajčír"
+      },
+      {
+        "date": "27. 10. 2026",
         "status": "on-track",
         "progress": 5,
         "author": "Radoslav Krajčír"
