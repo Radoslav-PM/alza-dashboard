@@ -28,10 +28,10 @@
     "asanaProjectUrl": "https://app.asana.com/1/5555576762646/project/1218590073426541/list/1218582134355166",
     "startdate": "16.9.2026",
     "status": "on-track",
-    "progress": 5,
+    "progress": 40,
     "teamsNotif": "auto",
     "upravilMeno": "Radoslav Krajčír",
-    "upravilCas": "2026-09-29T08:43:34.777Z",
+    "upravilCas": "2026-11-10T12:58:45.981Z",
     "comments": [],
     "history": [
       {
@@ -50,6 +50,12 @@
         "date": "27. 10. 2026",
         "status": "on-track",
         "progress": 5,
+        "author": "Radoslav Krajčír"
+      },
+      {
+        "date": "10. 11. 2026",
+        "status": "on-track",
+        "progress": 40,
         "author": "Radoslav Krajčír"
       }
     ]
